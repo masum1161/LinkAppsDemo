@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#234e6f</color>
+    <color name="colorPrimaryDark">#002644</color>
+    <color name="colorAccent">#537a9e</color>
+    <color name="colorA">#141c27</color>
+    <color name="teal_gray">#bd19222e</color>
+    <color name="sweet_red">#C30D0D</color>
+    <color name="WHITISH">#FFFFFF</color>
+    <color name="teal_trans">#29aeede7</color>
+    <color name="buttonNormal">#009688</color>
+    <color name="grayWhite">#5a5b9481</color>
+    <color name="ripple">#0F6BA4</color>
+    <color name="ColorPrimary">#29CA97</color>
+    <color name="ColorPrimaryDark">#06ACE4</color>
+    <color name="android_text_color">#747474</color>
+    <color name="app_topbar_color">#AAAAAA</color>
+    <color name="background_color">#E1E2E2</color>
+    <color name="black">#000000</color>
+    <color name="blue">#1589FF</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="gray">#D1D0CE</color>
+    <color name="lightBlue">#ADD8E6</color>
+    <color name="list_background">#06ACE4</color>
+    <color name="list_even">#AAAAAA</color>
+    <color name="list_header">#99979C</color>
+    <color name="list_odd">#E1E2E2</color>
+    <color name="list_selected">#455FB6</color>
+    <color name="primary">#3f51b5</color>
+    <color name="primary_dark">#303f9f</color>
+    <color name="primary_pressed">#E1E2E2</color>
+    <color name="red">#FF0000</color>
+    <color name="text_color">#686868</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal">#009688</color>
+    <color name="dot_active">#e5e5e5</color>
+    <color name="adapter">#e3bcb8b8</color>
+    <color name="recycler_view">#e3f2fd</color>
+    <color name="recycler_view1">#5F738A</color>
+    <color name="green">#278A04</color>
+    <color name="test">#0288d1</color>
+    <color name="color_primary_40">#40234e6f</color>
+
+</resources>
